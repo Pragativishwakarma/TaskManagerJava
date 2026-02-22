@@ -33,11 +33,7 @@
 
 ---
 
-## **Screenshots**
 
-*(Optional: Add screenshots of your app here)*
-
----
 
 ## **Installation**
 
